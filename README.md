@@ -8,7 +8,4 @@ Zombie survival game made in Processing 4
 4. Press the Play button at the top of the ZomBeeDefense.pde window
 
 # Controls
-  Look left: A or ←
-  Look right: D or →
-  Shoot/Select: Space
-  Pause: P
+Look left: A or ←Look right: D or →Shoot/Select: SpacePause: P
